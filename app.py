@@ -6,7 +6,7 @@ import plotly.express as px # interactive charts
 
 
 # read csv from a github repo
-df = pd.read_csv("https://raw.githubusercontent.com/Lexie88rus/bank-marketing-analysis/master/bank.csv")
+df = pd.read_csv("https://docs.google.com/spreadsheets/d/1R7Nor1rYLRS5P7fHrUCTgxi3XW9sgEnp0BOck6SCF0E/edit?usp=sharing")
 
 
 st.set_page_config(
